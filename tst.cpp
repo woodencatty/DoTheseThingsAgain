@@ -4,5 +4,8 @@ using namespace std;
 
 int main(){
     
-    return 0;
+    char a;
+    cin >> a;
+    cout << (int)a;
+    
 }
